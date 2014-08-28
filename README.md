@@ -10,7 +10,6 @@ The sanctions API can help people avoid sending funds to individuals on the HMT,
 Installation
 ------------
 
-```
 1) Download Json Simple Jar file : [https://code.google.com/p/json-simple/](https://code.google.com/p/json-simple/)
 2) Place Jar file into WEB-INF/lib (JSP)
 3) Add Json Simple Jar file to class path 
@@ -18,7 +17,6 @@ Installation
 5) Change Api Key in Settings.java
 
 
-```
 
 Package development is ongoing, and as such we recommend checking this repo regularly and send your recommendations.
 
