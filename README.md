@@ -23,6 +23,6 @@ Package development is ongoing, and as such we recommend checking this repo regu
 Usage
 -------------------
 
-Please check out our full documenation at [http://complyadvantage.github.io/api-docs/](http://complyadvantage.github.io/api-docs/).
+Please check out our full documentation at [https://complyadvantage.com/api/](https://complyadvantage.com/api/).
 
 
